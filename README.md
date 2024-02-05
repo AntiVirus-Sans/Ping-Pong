@@ -1,2 +1,2 @@
 # Ping-Pong
-There is nothing in this game yet :(
+There is already something in this game :)
